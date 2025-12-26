@@ -2,8 +2,7 @@
 
 *Master Istio, Linkerd, Consul, and More*
 
-
-<img width="383" alt="Screenshot 2025-05-10 at 6 16 19 PM" src="https://github.com/user-attachments/assets/26e2d0cf-059b-42b1-b6ed-60334438cef0" />
+<img width="380" height="710" alt="image" src="https://github.com/user-attachments/assets/af5f5d71-0704-4ab2-8522-1df0b4cad94f" />
 
 - 📖 Author: Vijay Kumar Anuganti
 - 📅 Date: May 2025
